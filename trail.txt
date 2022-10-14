@@ -1,2 +1,3 @@
 i'm trying to setup AND LEARN THE GIT COMMANDS
 create the changes
+just check
